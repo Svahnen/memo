@@ -1,0 +1,19 @@
+{
+  "name": "memo",
+  "version": "1.0.0",
+  "description": "A memory game",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Svahnen/memo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Svahnen/memo/issues"
+  },
+  "homepage": "https://github.com/Svahnen/memo#readme"
+}
